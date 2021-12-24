@@ -1,0 +1,12 @@
+.bg-back
+{
+    background-color: #163663;
+}
+.rounded-007
+{
+    border-radius: 1rem !important;
+}
+.brands,.price 
+{
+   height:125px;width:100%;overflow:auto;
+}
